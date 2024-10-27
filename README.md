@@ -23,4 +23,4 @@ Validation Mechanisms: Input validation ensures that data entered by users adher
 
 Credits
 Author: Teimurazi Bakuradze
-Course Instructor: Dr. Sean Grimes, SE 181 Faculty, Drexel University
+
